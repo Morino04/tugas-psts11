@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
@@ -70,7 +69,3 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
 # tugas-psts11
 aplikasi
-=======
-# tugas-psts11
-aplikasi
->>>>>>> origin/main
